@@ -30,8 +30,13 @@
 }
 
 .PostCard--Category {
-  font-size: 1.2rem;
-  min-height: 1.2em;
-  line-height: 1;
-  margin: 0.5em 0;
+  background: #00c2bd;
+  color: #fff;
+  display: inline-block;
+  position: absolute;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 22px;
+  padding: 0 10px;
+  text-transform: uppercase;
 }
